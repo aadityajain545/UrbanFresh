@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UebanFresh</string>
+    <string name="shop">Shop</string>
+    <string name="explore">Explore</string>
+    <string name="cart">Cart</string>
+    <string name="favourite">Favourite</string>
+    <string name="account">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_nto_our_store">Welcome\nto our store</string>
+    <string name="get_you_daily_needs_in_as_fast_as_possible">Get you daily needs in as fast as possible</string>
+    <string name="view_less">View Less</string>
+</resources>
